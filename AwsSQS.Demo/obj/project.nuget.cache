@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "eNcq1L1eMkRTocdvhfgjSO20SCWMTyQl74RVvFMW2XFHaiZKGpw9HyNqjguvFiUkhBBrW17DZ8Ets6LvHVqYvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khare\\source\\repos\\AwsSQS.Demo\\AwsSQS.Demo\\AwsSQS.Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khare\\.nuget\\packages\\awssdk.core\\3.7.11.4\\awssdk.core.3.7.11.4.nupkg.sha512",
+    "C:\\Users\\khare\\.nuget\\packages\\awssdk.sqs\\3.7.2.57\\awssdk.sqs.3.7.2.57.nupkg.sha512",
+    "C:\\Users\\khare\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\khare\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\khare\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\khare\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\khare\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\khare\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

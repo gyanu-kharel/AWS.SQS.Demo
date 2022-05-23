@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IVutPBDWSKGFeJ/2kHLTpqbZjTWc4yI/KN5kQD1G/fk=",
+  "Source": "AwsSQS.Demo",
+  "BasePath": "_content/AwsSQS.Demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
